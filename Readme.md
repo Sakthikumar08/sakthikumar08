@@ -27,7 +27,7 @@ An enthusiastic Electronics and Communication Engineering graduate🎓, seamless
 - ✅Programming in Java
 
 ---
-![SakthiKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sakthikumar08?theme=dark&font=Marvel&ext=contest)
 
