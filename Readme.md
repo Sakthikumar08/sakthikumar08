@@ -29,6 +29,10 @@ An enthusiastic Electronics and Communication Engineering graduate🎓, seamless
 ---
 
 
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sakthikumar08?theme=dark&font=Marvel&ext=contest)
+
+
+[![GeeksforGeeks stats](https://gfgstatscard.vercel.app/sakthikumar08)](https://www.geeksforgeeks.org/user/sakthikumar08/)
 
 [![SakthiKumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakthikumar08&bg_color=363636&color=fffaff&line=13ec22&point=fdf7fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
