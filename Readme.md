@@ -36,7 +36,9 @@ An enthusiastic Electronics and Communication Engineering graduate🎓, seamless
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthikumar08&layout=compact&theme=dark&hide_border=true" />
 </a>
 
-
+<a href="https://github.com/sakthikumar08/github-readme-streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=sakthikumar08&theme=dark&hide_border=true" alt="Sakthikumar's GitHub Streak Stats" />
+</a>
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sakthikumar08?theme=dark&font=Marvel&ext=contest)
